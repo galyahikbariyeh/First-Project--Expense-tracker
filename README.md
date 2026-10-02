@@ -57,7 +57,5 @@ https://drive.google.com/file/d/1pXyX3hNZOXs0mB7F5gx0DAox62DRScbJ/view?usp=drive
 ## GitHub Repository:
 https://github.com/galyahikbariyeh/First-Project--Expense-tracker.git
 
-## Live Project
-https://galyahikbariyeh.github.io/First-Project--Expense-tracker/
 
 
